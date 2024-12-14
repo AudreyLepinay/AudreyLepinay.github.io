@@ -14,7 +14,7 @@ menu {
             width: auto
         }
         img{
-            border: 3px solid blue;
+            border: 3px solid blue; margin-left: -25%;
         }
   
         th{
@@ -27,7 +27,7 @@ menu {
             text-align: center
         }
         body{
-            background: #FFFF99; color: blue;
+            background: rgb(227, 250, 241); color: blue;
         }
         h1{
             color: green;
@@ -36,7 +36,7 @@ menu {
             margin-left: 20px;
         }
         p{
-            font-family: verdana ; font-size: 150%
+            font-family: verdana ; font-size: 100%; color: black; margin-left: 20%; margin-right: 20%;text-align: start; text-align: justify;
         }
         table{
             border: 1px black solid; width: 25%;border-collapse: collapse; margin: auto
