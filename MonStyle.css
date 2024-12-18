@@ -14,14 +14,13 @@ menu {
             width: auto
         }
         img{
-            border: 3px solid blue; margin-left: -25%;
-        }
-  
-        th{
-            border: 2px red solid; width: 25%; border: 2px blue solid; width: 50%; border: 2px blue solid; width: 25%
+            border: 3px solid rgb(70, 54, 219); margin-left: 30%;
         }
         td {
-            border: 2px red solid; width: 25%; border: 2px blue solid; width: 50%; border: 2px blue solid; width: 25%
+            border: 2px rgb(27, 126, 27) solid; width: 0%;
+        }
+        .texte {
+            font-family: verdana ; font-size: 110%; color: black;
         }
         div{
             text-align: center
@@ -36,10 +35,10 @@ menu {
             margin-left: 20px;
         }
         p{
-            font-family: verdana ; font-size: 100%; color: black; margin-left: 20%; margin-right: 20%;text-align: start; text-align: justify;
+            font-family: verdana ; font-size: 100%; color: black; margin-left: 4%;
         }
         table{
-            border: 1px black solid; width: 25%;border-collapse: collapse; margin: auto
+            border: 1px rgb(19, 94, 19) solid; border-collapse: collapse; margin: auto ;
         }
         ul{
             color: red;
