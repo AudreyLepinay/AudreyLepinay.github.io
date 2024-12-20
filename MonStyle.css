@@ -19,17 +19,26 @@ menu {
         .img1{
             border: 3px solid rgb(131, 121, 223); margin-left: 0%;
         }
+        .img2{
+            border: 3px solid blue; margin-left: 0%;
+        }
+        .img3{
+            border: 5px solid rosybrown; margin-left: 0%;
+        }
         td {
             border: 2px rgb(227, 250, 241) solid; width: 50%;
         }
+        tr {
+            border: 2px black solid; width: 50%;
+        }
         .texte {
-            font-family: verdana ; font-size: 110%; color: black;
+            font-family: verdana ; font-size: 110%;
         }
         div{
             text-align: center
         }
         body{
-            background: rgb(227, 250, 241); color: blue;
+            background: rgb(227, 250, 241); color: black;
         }
         h1{
             color: green;
@@ -38,11 +47,17 @@ menu {
             margin-left: 20px;
         }
         p{
-            font-family: verdana ; font-size: 100%; color: black; margin-left: 4%;
+            font-family: verdana ; font-size: 100%; margin-left: 4%;
         }
         ul{
             color: red;
         }
         .p1{
             color:rgb(132, 0, 255)
+        }
+        .p2{
+            margin-left: 15%; margin-right: 15%; color:rgb(132, 132, 224)
+        }
+        .tr1{
+            border: 3px black solid; width: 25%; border-collapse: collapse;
         }
