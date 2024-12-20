@@ -16,8 +16,11 @@ menu {
         img{
             border: 3px solid rgb(70, 54, 219); margin-left: 30%;
         }
+        .img1{
+            border: 3px solid rgb(131, 121, 223); margin-left: 0%;
+        }
         td {
-            border: 2px rgb(27, 126, 27) solid; width: 0%;
+            border: 2px rgb(227, 250, 241) solid; width: 50%;
         }
         .texte {
             font-family: verdana ; font-size: 110%; color: black;
@@ -37,9 +40,9 @@ menu {
         p{
             font-family: verdana ; font-size: 100%; color: black; margin-left: 4%;
         }
-        table{
-            border: 1px rgb(19, 94, 19) solid; border-collapse: collapse; margin: auto ;
-        }
         ul{
             color: red;
+        }
+        .p1{
+            color:rgb(132, 0, 255)
         }
