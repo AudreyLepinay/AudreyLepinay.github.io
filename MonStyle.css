@@ -7,12 +7,6 @@ and open the template in the editor.
     Created on : 11 déc. 2024, 09:20:44
     Author     : audrey.lepinay
 */
-menu {
-            position: absolute;
-            top:30px;
-            left:5px;
-            width: auto
-        }
         img{
             border: 3px solid rgb(70, 54, 219); margin-left: 30%;
         }
@@ -27,9 +21,6 @@ menu {
         }
         td {
             border: 2px rgb(227, 250, 241) solid; width: 50%;
-        }
-        tr {
-            border: 2px black solid; width: 50%;
         }
         .texte {
             font-family: verdana ; font-size: 110%;
@@ -56,8 +47,20 @@ menu {
             color:rgb(132, 0, 255)
         }
         .p2{
-            margin-left: 15%; margin-right: 15%; color:rgb(132, 132, 224)
+            margin-left: 15%; margin-right: 15%; color:rgb(117, 117, 223)
         }
         .tr1{
             border: 3px black solid; width: 25%; border-collapse: collapse;
+        }
+        table{
+            border: 1px black solid; border-collapse: collapse; margin: auto
+        }
+        .table1{
+            width: 25%;
+        }
+        th{
+            border: 2px black solid; width: 25%; width: 50%; width: 25%; color:blue
+        }
+        caption{
+            color:rgb(44, 44, 121);
         }
